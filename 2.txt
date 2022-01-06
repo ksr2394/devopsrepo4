@@ -1,1 +1,3 @@
 "this is fileb in the folder" 
+
+"this is added file 2.txt"
