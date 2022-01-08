@@ -1,3 +1,4 @@
 "mergeconflict demo" 
 
-change is done by sri from desktop
+change is done by sri from desktop and another user from github user
+
